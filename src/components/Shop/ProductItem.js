@@ -70,7 +70,7 @@ const ProductItem = (props) => {
   </Row>
 </Card> */}
       {/* className={classes.item} */}
-      <Card className='e-card-horizontal' style={{ width: '29rem', height: '20rem'}}>
+      <Card className='e-card-horizontal' style={{ width: '28rem', height: '20rem'}}>
       <Card.Body style={{textAlign: 'center',}}>
         <header>
           
